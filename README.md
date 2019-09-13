@@ -1,2 +1,0 @@
-# PikabuiClearContainerTry
-Created with CodeSandbox
